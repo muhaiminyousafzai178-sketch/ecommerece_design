@@ -294,3 +294,65 @@ span div{
 .mode{
     padding-left: 10%;
 }
+
+
+
+
+#card4{
+    background-image: url(/image/Rectangle\ 479.png);
+    background-size: cover;
+    border-radius: 20px;
+    color: white;
+    height: 300px;
+    width: 550px
+    
+    
+}
+
+
+.cardtext{
+    padding-left: 30px;
+    padding-top: 50px;
+
+}
+
+
+#en{
+    background-color: #FF9C26;
+    height: 30px;
+    border-radius: 50px;
+    border: none;
+}
+
+
+
+#card5{
+    background-image: url(/image/Rectangle\ 480.png);
+    background-size: cover;
+    height: 300px;
+    width: 550px;
+    border-radius: 15px;
+}
+
+#maincard{
+    justify-content: space-between;
+    display: flex
+
+}
+
+#cardtext2{
+    line-height: 20px;
+    padding-left: 30px;
+    padding-top: 40px;
+
+
+}
+
+#en2{
+    background-color: #FF9C26;
+    border-radius: 30px;
+    border: none;
+   height: 30px;
+}
+
+
