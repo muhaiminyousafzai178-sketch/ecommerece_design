@@ -356,3 +356,109 @@ span div{
 }
 
 
+#prix{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+#maincard2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 310px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.sp{
+    display: inline;
+}
+.p{
+    margin-left: 10px;
+}
+
+
+
+#maincard3{
+    background-color: #FCF4D8;
+    width: 100%;
+    height: 300px;
+
+}
+
+.cardtext3{
+    padding-left: 70px;
+    padding-top: 40px;
+}
+
+
+.je{
+  background-color: #137AA8;
+  border-radius: 30px;
+  border: none;
+  height: 30px;
+  width: 110px;
+}
+
+#maincard3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#card3img{
+    position: absolute;
+    right: 50px;
+    bottom:;
+}
+
+.circle{
+    padding-right: 40px;
+}
+
+.foot{
+    display: flex;
+    gap: 15px;
+}
+
+.footimg{
+    margin-top: 40px;
+}
+
+
+#mainfoot{
+    background-color: #1376A812;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+#footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    background-color: #1D2C38;
+    height: 300px;
+    width: 100%;
+}
+.footertext{
+    color: white;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+
+.heading{
+    color: #FF9C26;
+}
+#div4{
+    margin-bottom: 35px;
+    padding-right: 30px;
+}
+#div3{
+    margin-bottom: 30px;
+}
